@@ -54,3 +54,11 @@ D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\obj\Debug\net5.0\API.genrun
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
