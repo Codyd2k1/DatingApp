@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\API\\API.csproj": {}
+    "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\API\\API.csproj": {
+    "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\qgnz\\.nuget\\packages\\",
-        "outputPath": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\A Personal Studies\\.NET\\udemyCourse\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\qgnz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.17, )"

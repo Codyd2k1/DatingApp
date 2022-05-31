@@ -62,3 +62,6 @@ D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\System.Ide
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\A Personal Studies\.NET\udemyCourse\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
+D:\A Personal Studies\.NET\udemyCourse\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
